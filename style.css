@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#canvaArea{
+    display: block;
+    border: 10px solid black;
+    margin: auto;
+    background-image:url('/New Folder With Items/ohood_blank_manga_comic_book_6af5cc64-85df-44e7-9649-8fc31c0ea84c.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
